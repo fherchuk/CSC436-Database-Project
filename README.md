@@ -24,6 +24,7 @@ Add a jpeg/png/gif file here.
 <!--Remove the below lines and add yours -->
 #### *Frederick Herchuk* ([GitHub](https://github.com/fherchuk))
 #### *Robbie Thompson* ([GitHub](https://github.com/robbiethompson4))
+#### *Fernando Tavares* ([GitHub](https://github.com/fjt1496))
 If you have a web site or a Git user name, feel free to link.
 
 <!--MARKDOWN BADGES-->
